@@ -1,0 +1,6 @@
+{
+    "allowed": false,
+    "banned": ["porn","sex","nsfw","audio","pornographic","sexual"],
+    "bannedSites": ["pornhub.com"],
+    "message": "none"
+}
