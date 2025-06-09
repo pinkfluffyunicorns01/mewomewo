@@ -1,5 +1,5 @@
 {
-    "allowed": false,
+    "allowed": true,
     "banned": ["porn","sex","nsfw","audio","pornographic","sexual"],
     "bannedSites": ["pornhub.com"],
     "message": "BAD PUPPY!!!"
